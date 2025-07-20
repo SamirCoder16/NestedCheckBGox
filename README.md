@@ -70,5 +70,5 @@ verifyChecked(node) → checks if all children are checked and updates parent
 🙌 Special Thanks
 To my brain 🧠 — for surviving this recursion loop 😅
 And React — for making UI logic fun and powerful ⚛️
-
+```
 <p align="center"> Made with ❤️ and a lot of logic by Samir Parvez </p> ```
