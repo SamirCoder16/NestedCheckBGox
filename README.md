@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.icons8.com/emoji/96/checkbox-emoji.png" width="80" alt="checkbox-logo" />
-</p>
-
 <h1 align="center">Nested Checkboxes in React ✅</h1>
 
 <p align="center">
